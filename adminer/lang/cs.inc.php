@@ -346,8 +346,8 @@ $translations = array(
 	'Type has been created.' => 'Typ byl vytvořen.',
 	'Alter type' => 'Pozměnit typ',
 
-    'as a regular expression' => 'jako regulární výraz',
-    'Copy to clipboard' => 'Kopírovat do schránky',
+	'as a regular expression' => 'jako regulární výraz',
+	'Copy to clipboard' => 'Kopírovat do schránky',
 
 	// 'Thanks for using Adminer, consider <a href="https://www.adminer.org/en/donation/">donating</a>.' => null,
 );
